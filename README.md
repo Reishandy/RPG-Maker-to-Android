@@ -1,9 +1,9 @@
 # RPG Maker to Android APK Guide
 
-A comprehensive guide and Android Studio template for converting RPG Maker MV and MZ games into Android APKs. This tutorial provides step-by-step instructions to help you deploy your game on Android devices efficiently. 
+A comprehensive guide and Android Studio template for converting RPG Maker MV and MZ games into Android APKs.
 
 ## Features
-- Simple and clear step-by-step instructions.
+- Simple instructions.
 - Pre-configured Android Studio template for easy conversion.
 - No programming knowledge required.
 - Supports RPG Maker MV and MZ.
@@ -126,8 +126,14 @@ Before starting, ensure you have the following:
 
 ---
 
-## 📜 License
+## 📄 License
 This guide and template are provided under the **MIT License**. Feel free to use and modify them as needed.
+
+---
+
+## 🙏 Credits
+
+Created by [Reishandy](https://github.com/Reishandy)
 
 ---
 
