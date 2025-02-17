@@ -122,12 +122,12 @@ Before starting, ensure you have the following:
 - For troubleshooting or additional customization, refer to the [official documentation](https://developer.android.com/studio).
 
 ## 📄 License
-This guide and template are provided under the **MIT License**. Feel free to use and modify them as needed.
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Credits
 
 Created by [Reishandy](https://github.com/Reishandy)
-
 
 ## 🎮 Enjoy Making Your RPG Game on Android!
 If this guide helped you, consider giving a ⭐ on [GitHub](https://github.com/Reishandy/RPG-Maker-to-Android)! 🚀
