@@ -1,7 +1,7 @@
 # Panduan RPG Maker ke Android APK  
 **Tutorial sederhana dan file Android Studio untuk mengonversi game RPG Maker MV dan MZ yang telah dideploy menjadi APK Android.**  
 
-> 📄 **[Baca dalam Bahasa Inggris](./README_EN.md)**  
+> 📄 **[Baca dalam Bahasa Inggris](./README.md)**  
 
 ## 📌 Pendahuluan  
 Panduan ini menjelaskan langkah-langkah untuk mengubah game RPG Maker MV dan MZ yang telah dideploy menjadi APK Android menggunakan Android Studio. Dengan mengikuti tutorial ini, Anda dapat menjalankan game RPG Maker di perangkat Android dengan mudah.  
@@ -95,4 +95,4 @@ Panduan ini menjelaskan langkah-langkah untuk mengubah game RPG Maker MV dan MZ 
 ## 🎉 Selesai!  
 Sekarang, Anda telah berhasil mengonversi game RPG Maker MV/MZ menjadi APK Android! Anda dapat menginstalnya di perangkat Android atau membagikannya ke orang lain.  
 
-Jika ada pertanyaan atau kendala, silakan lihat **[README versi Inggris](./README_EN.md)** atau kunjungi halaman GitHub proyek ini. 🚀
+Jika ada pertanyaan atau kendala, silakan lihat **[README versi Inggris](./README.md)** atau kunjungi halaman GitHub proyek ini. 🚀
