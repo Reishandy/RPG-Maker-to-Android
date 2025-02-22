@@ -68,6 +68,14 @@ Before starting, ensure you have the following:
 
    ![Rename Package](img/6rename.png)
 
+5. Also change the names in build.gradle.kts (Module)
+
+   ![Rename Gradle](img/6gradle.png)
+
+   then press sycn now at the blue ribbon
+
+   ![Sync now](img/6sync.png)
+
 ### 7️⃣ Customize App Name and Icon
 ---
 #### **A. Change App Name**
